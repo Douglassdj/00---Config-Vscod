@@ -232,4 +232,7 @@
   "window.density.editorTabHeight": "compact"
 }
 
-https://www.jetbrains.com/pt-br/lp/mono/
+Font: https://www.jetbrains.com/pt-br/lp/mono/
+Theme: Min Theme
+Icon: Symbols
+APC:
